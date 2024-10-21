@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1729409583,,"wq"
+|2,0,1729493717,,"wq"
+:q
+|2,0,1729487041,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +27,90 @@
 # Registers:
 
 # File marks:
-'0  1  3  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
-|4,48,1,3,1729409583,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
-'1  1  1  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
-|4,49,1,1,1729409553,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+'0  5  22  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/03/hosts
+|4,48,5,22,1729493717,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/03/hosts"
+'1  5  22  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/02/hosts
+|4,49,5,22,1729493118,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/02/hosts"
+'2  1  0  ~/diveintoansible/Ansible Architecture and Design/Modules/hosts
+|4,50,1,0,1729487041,"~/diveintoansible/Ansible Architecture and Design/Modules/hosts"
+'3  1  3  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,51,1,3,1729409583,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+'4  1  1  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,52,1,1,1729409553,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
 
 # Jumplist (newest first):
+-'  5  22  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/03/hosts
+|4,39,5,22,1729493717,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/03/hosts"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/03/hosts
+|4,39,1,0,1729493710,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/03/hosts"
+-'  5  22  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/02/hosts
+|4,39,5,22,1729493118,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/02/hosts"
+-'  5  22  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/02/hosts
+|4,39,5,22,1729493118,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/02/hosts"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/02/hosts
+|4,39,1,0,1729493105,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/02/hosts"
+-'  1  0  ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/02/hosts
+|4,39,1,0,1729493105,"~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/02/hosts"
+-'  1  0  ~/diveintoansible/Ansible Architecture and Design/Modules/hosts
+|4,39,1,0,1729487041,"~/diveintoansible/Ansible Architecture and Design/Modules/hosts"
+-'  1  0  ~/diveintoansible/Ansible Architecture and Design/Modules/hosts
+|4,39,1,0,1729487041,"~/diveintoansible/Ansible Architecture and Design/Modules/hosts"
+-'  1  0  ~/diveintoansible/Ansible Architecture and Design/Modules/hosts
+|4,39,1,0,1729487041,"~/diveintoansible/Ansible Architecture and Design/Modules/hosts"
+-'  1  0  ~/diveintoansible/Ansible Architecture and Design/Modules/hosts
+|4,39,1,0,1729487041,"~/diveintoansible/Ansible Architecture and Design/Modules/hosts"
+-'  1  3  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,3,1729409583,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+-'  1  3  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,3,1729409583,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+-'  1  3  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,3,1729409583,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+-'  1  3  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,3,1729409583,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+-'  1  3  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,3,1729409583,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+-'  1  3  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,3,1729409583,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+-'  1  3  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,3,1729409583,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
 -'  1  3  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
 |4,39,1,3,1729409583,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
 -'  1  1  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
 |4,39,1,1,1729409553,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+-'  1  1  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,1,1729409553,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+-'  1  1  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,1,1729409553,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+-'  1  1  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,1,1729409553,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+-'  1  1  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,1,1729409553,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+-'  1  1  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,1,1729409553,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+-'  1  1  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,1,1729409553,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
+-'  1  1  ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
+|4,39,1,1,1729409553,"~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts"
 
 # History of marks within files (newest to oldest):
+
+> ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/03/hosts
+	*	1729493716	0
+	"	5	22
+	^	5	23
+	.	5	23
+	+	5	23
+
+> ~/diveintoansible/Ansible Playbooks, Introduction/Ansible Playbooks, Breakdown of Sections/02/hosts
+	*	1729493118	0
+	"	5	22
+	^	5	23
+	.	5	23
+	+	5	23
+
+> ~/diveintoansible/Ansible Architecture and Design/Modules/hosts
+	*	1729487040	0
+	"	1	0
 
 > ~/diveintoansible/Ansible Architecture and Design/Inventories/02/hosts
 	*	1729409583	0

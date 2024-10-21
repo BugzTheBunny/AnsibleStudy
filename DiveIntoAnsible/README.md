@@ -1,5 +1,8 @@
+# THIS IS A COPY OF THE ORIGINAL REPO, SUPPORT THE ORIGIANL REPO
+---
+---
+---
 ## Dive Into Ansible Course Lab
-
 [![Follow](https://shields.io/twitter/follow/jamesspurin?label=Follow)](https://twitter.com/jamesspurin)
 [![GitHub Stars](https://shields.io/docker/pulls/spurin/diveintoansible?dummy=unused)](https://hub.docker.com/r/spurin/diveintoansible)
 

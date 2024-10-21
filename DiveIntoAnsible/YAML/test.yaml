@@ -1,0 +1,36 @@
+# Every YAML file should start with three dashes
+---
+ex: str
+ex2: str2
+multiline_key: |
+  this will be
+  multileine becuase
+  of the pipe line above
+
+is_false_01: false
+is_false_02: False
+is_false_03: FALSE
+is_false_04: no
+is_false_05: No
+is_false_06: NO
+is_false_07: off
+is_false_08: Off
+is_false_09: OFF
+is_true_01: true 
+is_true_02: True 
+is_true_03: TRUE 
+is_true_04: yes 
+is_true_05: Yes 
+is_true_06: YES 
+is_true_07: on 
+is_true_08: On 
+is_true_09: ON 
+
+list_example:
+  - item1
+  - item2
+  - item3
+
+ 
+# Every YAML file should end with three dots
+...

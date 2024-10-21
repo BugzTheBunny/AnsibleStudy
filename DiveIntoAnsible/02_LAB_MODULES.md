@@ -46,3 +46,11 @@
 - ## `Command` module
     `Note` - the `command` module does not take variables and operations like a shell does, meaning `$HOME`, <, >, | etc. will not work there, use the `Shell` module instead if you need these features.
     #### Usage
+
+    - `ansible all -a 'touch /tmp/test_command_module creates=/tmp/test_command_module'`
+    - `ansible all -a 'rm /tmp/test_command_module removes=/tmp/test_command_module'`
+
+- ## `Doc` module
+    This module provides documentation regarding commands and modules.
+    #### Usage
+    - `ansible-doc file` - this will provide docs and options for the `file` module

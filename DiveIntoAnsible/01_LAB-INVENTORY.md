@@ -20,6 +20,8 @@ done
 
 - pings all of the instances using ansible`ansible -i,ubuntu1,ubuntu2,ubuntu3,centos1,centos2,centos3 all -m ping`kl 
 - connect to an instance `ssh ansible@{remote}` - example - `shh ansible@centos2`
+- to configure `centos1` ports, ssh into it, go to `/utils` and run `update_sshd_ports.sh 22 2222`
+
 
 # Info
 
