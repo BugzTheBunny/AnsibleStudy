@@ -212,3 +212,79 @@ cd ..
 ansible ubuntu-c setup | more
 ansible ubuntu-c -m setup | more
 ansible ubuntu-c -m setup -a 'filter=ansible_local'
+cd diveintoansible/
+ls
+cd Ansible\ Playbooks\,\ Introduction/
+cd Ansible\ Playbooks\,\ Creating\ and\ Executing/
+cd 04
+ls
+cd solution/
+cd 04/
+ls
+ansible-playbook nginx_playbook.yaml 
+cd ..
+cd 06
+ansible-playbook nginx_playbook.yaml 
+cd ..
+ls
+cd 08
+ls
+cd files/
+ls
+cd ..
+more nginx_playbook.yaml 
+ls
+cd vars/
+ls
+cat logos.yaml 
+clear
+ls
+cd ..
+ls
+cd templates/
+ls
+cd ..
+ls
+cat nginx_playbook.yaml 
+ls
+clear
+ls
+cd vars/
+ls
+cd ..
+ls
+clear
+cd templates/
+ls
+cat index.html-ansible_managed.j2 
+clear
+ls
+cat index.html-logos.j2 
+clear
+ls
+vim index.html-ansible_managed.j2 
+more index.html-ansible_managed.j2 
+cd diveintoansible/
+ls
+cd Ansible\ Playbooks\,\ Introduction/Templating\ with\ Jinja2/
+cd 01/
+ls
+cat jinja2_playbook.yaml 
+cd ..
+c d..
+cd ..
+cd Ansible\ Playbooks\,\ Creating\ and\ Executing/
+ls
+cd solution/
+ls
+cd 01/
+ls
+ansible-playobok nginx_playbook.yaml 
+ansible-playbook nginx_playbook.yaml 
+cd diveintoansible/
+ls
+cd Ansible\ Playbooks\,\ Deep\ Dive/
+cd Register\ and\ When/
+cd 01/
+ls
+ansible all -a 'hostname -s' -o
